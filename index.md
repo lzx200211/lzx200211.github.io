@@ -4,15 +4,15 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://lzx200211.github.io/hanlin.jpg" class="floatpic" width="500" height="500">
 
-Here is **Xuanzi Li ([厉姿萱])**.
+Here is **Xuanzi Li ([厉姿萱]) **.
 
-我是在福州大学计算机专业就读的大三学生**
+我是在福州大学计算机专业就读的大三学生 **
 
 <br>
 
-**<font color='red'>[！！！]</font> 我的目标是考研，如果有相同目标的同学可以多和我交流探索学习方法
+** <font color='red'>[！！！]</font> 我的目标是考研，如果有相同目标的同学可以多和我交流探索学习方法
 
 <br>
 
